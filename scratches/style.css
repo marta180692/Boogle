@@ -1,0 +1,102 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+color: purple;
+}
+
+
+
+#crveni {
+    color: red;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 15px;
+letter-spacing: -0.6px;
+word-spacing: -0.2px;
+font-weight: normal;
+text-decoration: underline solid rgb(68, 68, 68);
+
+}
+
+
+.plavi {
+    color: blue;
+    font-family: monospace;
+    font-size: 20px;
+    text-decoration: underline solid rgb(68, 68, 68);
+}
+
+.veliki {
+    font-size: 24px;
+}
+
+.zuti {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 15px;
+    letter-spacing: -0.6px;
+    word-spacing: -0.2px;
+    color: #FFFF00;
+    font-weight: 700;
+    text-decoration: underline solid rgb(68, 68, 68);
+}
+
+
+.pink {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    letter-spacing: -0.8px;
+    word-spacing: -1.4px;
+    color: #FF00FF;
+    font-weight: 400;
+
+}
+
+.crno {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 700;
+
+}
+
+
+.zelena {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 14px;
+    letter-spacing: -0.6px;
+    word-spacing: -0.2px;
+    color: #44CC00;
+    font-weight: 700;
+    text-decoration: underline solid rgb(68, 68, 68);
+}
+
+.ljubicasta {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 14px;
+    letter-spacing: -0.6px;
+    word-spacing: -0.2px;
+    color: #800080;
+    font-weight: 700;
+    text-decoration: underline solid rgb(68, 68, 68);
+}
+
+body {
+    margin: 0;
+}
+
+.navbar {
+    background-color: #f1f1f1;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.class {
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+}
